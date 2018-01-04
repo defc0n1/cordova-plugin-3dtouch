@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EddyVerbruggen/cordova-plugin-3dtouch.git"
+    "url": "git+https://github.com/defc0n1/cordova-plugin-3dtouch.git"
   },
   "keywords": [
     "3DTouch",
