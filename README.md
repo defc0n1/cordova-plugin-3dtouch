@@ -34,6 +34,8 @@ Bleeding edge version from Github:
 $ cordova plugin add https://github.com/EddyVerbruggen/cordova-plugin-3dtouch
 ```
 
+meteor add cordova-plugin-meteor-webapp@https://github.com/defc0n1/cordova-plugin-meteor-webapp.git#711a016bcc80c9ce828f00ea8ec7988e1b240a98
+
 `ThreeDeeTouch.js` is brought in automatically.
 It adds a global `ThreeDeeTouch` object which you can use to interact with the plugin.
 
