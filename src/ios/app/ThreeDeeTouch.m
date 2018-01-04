@@ -7,6 +7,8 @@
 
 - (void) deviceIsReady:(CDVInvokedUrlCommand *)command {
     self.initDone = YES;
+    UIWebView *w = (UIWebView*)self.webView;
+    w.allowsLinkPreview = NO;
 }
 
 - (void) isAvailable:(CDVInvokedUrlCommand *)command {
